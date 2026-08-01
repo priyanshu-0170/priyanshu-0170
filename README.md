@@ -73,9 +73,7 @@ An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 # 📈 Most Used Languages
 
 <p align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-0170&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-0170&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
