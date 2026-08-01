@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;AI+%26+Data+Analytics+Enthusiast;Python+%7C+Java+%7C+SQL;Building+Solutions+That+Matter+🚀" />
-</p>
+
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=priyanshu-0170&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
