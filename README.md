@@ -124,7 +124,7 @@ An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/priyanshu-gupta017/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
