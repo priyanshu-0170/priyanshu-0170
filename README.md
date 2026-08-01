@@ -1,86 +1,113 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | MERN Stack Developer | AI & ML Enthusiast</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;MERN+Stack+Developer;AI+Enthusiast;Open+Source+Learner;Always+Learning+New+Technologies" />
-</p>
+<h3 align="center">Aspiring Software Engineer | AI & Data Analytics Enthusiast | Problem Solver</h3>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech Computer Science & business Sysytems
-- 💻 MERN Stack Developer
-- 🤖 Interested in AI, Machine Learning & NLP
-- 🌱 learning python DSA 
-- 🏆 3rd Position - NLP Hackathon
-- 🎯 Campus Ambassador - Kshitij IIT Kharagpur
-- 📫 Email: **pg.priyanshu01@gmail.com**
+🎓 B.Tech in Computer Science & Business Systems
+
+💡 Passionate about solving real-world problems using AI, Data Analytics, and Software Development.
+
+📊 Interested in Data Analysis, Supply Chain Analytics, Business Intelligence, and Intelligent Decision Support Systems.
+
+🌱 Currently improving my skills in Python, SQL, Power BI, Java, and Data Structures & Algorithms.
+
+🎯 Strong analytical mindset with a passion for research, continuous learning, and innovative problem solving.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
-### 🔹 HearLink
-AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
+### 🔹 HearLink – AI Powered Learning Assistant for Deaf & Hard-of-Hearing Students
 
-### 🔹 HearLink V2
-Advanced multilingual AI classroom assistant.
+An AI-powered accessibility platform designed to make classroom learning inclusive through intelligent speech processing and emotion analysis.
 
+### Key Highlights
 
+✅ Real-time multilingual Speech-to-Text transcription
 
+✅ AI-based Facial Emotion Recognition for classroom engagement
 
+✅ AI-generated study notes and learning materials
 
----
+✅ Intelligent chatbot for student assistance
 
-## 💻 Tech Stack
+✅ Focused on improving communication and learning accessibility
 
-### Languages
+### Skills Demonstrated
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
-
-### Tools
-Git • GitHub • VS Code • Postman • Docker
+- Problem Analysis
+- Data Processing
+- AI & Machine Learning
+- Natural Language Processing
+- Python Development
+- Research & Innovation
+- Analytical Thinking
+- Communication-focused Solution Design
 
 ---
 
-## 📊 GitHub Stats
+## 💻 Technical Skills
 
-![](https://github-readme-stats.vercel.app/api?username=priyanshu-0170&show_icons=true&theme=tokyonight)
+### Programming
+- Python
+- Java
+- SQL
+- JavaScript
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-0170&theme=tokyonight)
+### Data Analytics
+- SQL
+- Power BI
+- Excel
+- Data Analysis
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-0170&layout=compact&theme=tokyonight)
+### AI & ML
+- Machine Learning
+- NLP
+- Speech Processing
+- Emotion Recognition
+
+### Development
+- Git
+- GitHub
+- VS Code
+- REST APIs
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Core Strengths
 
-![](https://github-profile-trophy.vercel.app/?username=priyanshu-0170&theme=tokyonight)
+✔ Analytical Thinking
+
+✔ Problem Solving
+
+✔ Research & Innovation
+
+✔ Business Analysis
+
+✔ Communication Skills
+
+✔ Presentation Skills
+
+✔ Team Collaboration
+
+✔ Fast Learner
 
 ---
 
-## 🌐 Connect With Me
+## 📚 Currently Learning
 
-[LinkedIn](https://linkedin.com/in/YOUR-LINK)
-
-[LeetCode](https://leetcode.com/YOUR-ID)
-
-[Gmail](mailto:pg.priyanshu01@gmail.com)
+- Advanced SQL
+- Power BI
+- Supply Chain Analytics
+- Data Visualization
+- System Design
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile ⭐
-</p>
+## 📫 Contact
+
+📧 Email: pg.priyanshu01@gmail.com
+
+💼 LinkedIn: (Add your LinkedIn link)
