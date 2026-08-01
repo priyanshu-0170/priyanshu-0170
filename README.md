@@ -1,113 +1,151 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
-<h3 align="center">Aspiring Software Engineer | AI & Data Analytics Enthusiast | Problem Solver</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Engineer;AI+%26+Data+Analytics+Enthusiast;Python+%7C+Java+%7C+SQL;Building+Solutions+That+Matter+🚀" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=priyanshu-0170&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/priyanshu-0170?style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/priyanshu-0170?style=for-the-badge"/>
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Computer Science & Business Systems
+🎓 B.Tech – Computer Science & Business Systems
 
-💡 Passionate about solving real-world problems using AI, Data Analytics, and Software Development.
+💡 Passionate about AI, Data Analytics and Software Development.
 
-📊 Interested in Data Analysis, Supply Chain Analytics, Business Intelligence, and Intelligent Decision Support Systems.
+🌱 Currently learning
 
-🌱 Currently improving my skills in Python, SQL, Power BI, Java, and Data Structures & Algorithms.
-
-🎯 Strong analytical mindset with a passion for research, continuous learning, and innovative problem solving.
-
----
-
-## 🚀 Featured Project
-
-### 🔹 HearLink – AI Powered Learning Assistant for Deaf & Hard-of-Hearing Students
-
-An AI-powered accessibility platform designed to make classroom learning inclusive through intelligent speech processing and emotion analysis.
-
-### Key Highlights
-
-✅ Real-time multilingual Speech-to-Text transcription
-
-✅ AI-based Facial Emotion Recognition for classroom engagement
-
-✅ AI-generated study notes and learning materials
-
-✅ Intelligent chatbot for student assistance
-
-✅ Focused on improving communication and learning accessibility
-
-### Skills Demonstrated
-
-- Problem Analysis
-- Data Processing
-- AI & Machine Learning
-- Natural Language Processing
-- Python Development
-- Research & Innovation
-- Analytical Thinking
-- Communication-focused Solution Design
-
----
-
-## 💻 Technical Skills
-
-### Programming
-- Python
-- Java
-- SQL
-- JavaScript
-
-### Data Analytics
+- Data Structures & Algorithms
 - SQL
 - Power BI
-- Excel
-- Data Analysis
+- Java
+- Python
 
-### AI & ML
-- Machine Learning
-- NLP
-- Speech Processing
-- Emotion Recognition
+🏆 NLP Hackathon – 3rd Position
 
-### Development
-- Git
-- GitHub
-- VS Code
-- REST APIs
+📍 Kolkata, India
+
+📧 **pg.priyanshu01@gmail.com**
 
 ---
 
-## 📈 Core Strengths
+# 🚀 Featured Project
 
-✔ Analytical Thinking
+## HearLink
+
+An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
+
+### Features
+
+- 🎤 Real-time Speech-to-Text
+- 🤖 AI Chatbot
+- 😊 Emotion Recognition
+- 📝 AI Generated Study Notes
+- 🌎 Multilingual Support
+
+---
+
+# 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+
+</p>
+
+---
+
+# 📊 GitHub Dashboard
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=priyanshu-0170&show_icons=true&theme=tokyonight"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=priyanshu-0170&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Most Used Languages
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-0170&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanshu-0170&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanshu-0170&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🧠 Current Focus
+
+✔ AI Applications
+
+✔ Data Analytics
+
+✔ SQL
+
+✔ Java
+
+✔ Python
 
 ✔ Problem Solving
 
-✔ Research & Innovation
-
-✔ Business Analysis
-
-✔ Communication Skills
-
-✔ Presentation Skills
-
-✔ Team Collaboration
-
-✔ Fast Learner
+✔ Open Source
 
 ---
 
-## 📚 Currently Learning
+# 🌐 Connect With Me
 
-- Advanced SQL
-- Power BI
-- Supply Chain Analytics
-- Data Visualization
-- System Design
+<p align="center">
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pg.priyanshu01@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/priyanshu-0170">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
 
 ---
 
-## 📫 Contact
+<p align="center">
 
-📧 Email: pg.priyanshu01@gmail.com
+### 💬 Quote of the Day
 
-💼 LinkedIn: (Add your LinkedIn link)
+> **"Consistency beats talent when talent doesn't stay consistent."**
+
+⭐ Thanks for visiting my profile!
+
+</p>
