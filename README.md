@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
 
-
+<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Java | Turning Data into Business Insights 📊</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=priyanshu-0170&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
@@ -12,39 +12,60 @@
 
 # 👨‍💻 About Me
 
-🎓 B.Tech – Computer Science & Business Systems
+🎓 B.Tech in Computer Science & Business Systems
 
-💡 Passionate about AI, Data Analytics and Software Development.
+📊 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+
+💡 Interested in Data Analytics, Business Intelligence, AI Applications, and Backend Development.
 
 🌱 Currently learning
 
-- Data Structures & Algorithms
-- SQL
-- Power BI
-- Java
-- Python
+* Advanced SQL
+* Power BI
+* Python for Data Analytics
+* Statistics
+* Data Visualization
+* Data Structures & Algorithms
 
-🏆 NLP Hackathon – 3rd Position
+🏆 Achievements
+
+🥉 3rd Position – NLP Hackathon
+
+🚀 Built AI and Data Analytics projects using Python, SQL, Power BI, and MERN Stack.
 
 📍 Kolkata, India
 
-📧 **pg.priyanshu01@gmail.com**
+📧 **[pg.priyanshu01@gmail.com](mailto:pg.priyanshu01@gmail.com)**
 
 ---
 
-# 🚀 Featured Project
+# 🚀 Featured Projects
 
-## HearLink
+## 📊 Customer Trends Analytics
 
-An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
+**SQL • Python • Power BI**
+
+* Data Cleaning using Pandas
+* Exploratory Data Analysis (EDA)
+* SQL Business Analysis
+* Interactive Power BI Dashboard
+* Customer Segmentation
+* Sales Trend Analysis
+* Business KPI Reporting
+
+---
+
+## 🤖 HearLink
+
+AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 
 ### Features
 
-- 🎤 Real-time Speech-to-Text
-- 🤖 AI Chatbot
-- 😊 Emotion Recognition
-- 📝 AI Generated Study Notes
-- 🌎 Multilingual Support
+* 🎤 Real-time Speech-to-Text
+* 🤖 AI Chatbot
+* 😊 Emotion Recognition
+* 📝 AI Generated Study Notes
+* 🌍 Multilingual Support
 
 ---
 
@@ -52,13 +73,25 @@ An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,mysql,git,github,vscode,postman"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,java,react,nodejs,express,mongodb,git,github,vscode,postman"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Dashboard
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -73,7 +106,9 @@ An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 # 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-0170&layout=donut&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu-0170&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -98,21 +133,19 @@ An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 
 ---
 
-# 🧠 Current Focus
+# 🎯 2026 Goals
 
-✔ AI Applications
+✔ Build 10+ End-to-End Data Analytics Projects
 
-✔ Data Analytics
+✔ Master SQL & Power BI
 
-✔ SQL
+✔ Strengthen Python for Data Analysis
 
-✔ Java
+✔ Solve 300+ DSA Problems
 
-✔ Python
+✔ Contribute to Open Source
 
-✔ Problem Solving
-
-✔ Open Source
+✔ Secure a Data Analyst / Business Analyst Role
 
 ---
 
@@ -136,12 +169,8 @@ An AI-powered accessibility platform for Deaf & Hard-of-Hearing students.
 
 ---
 
-<p align="center">
+# 💬 Quote
 
-### 💬 Quote of the Day
+> **"Data tells a story. My job is to uncover it and turn it into decisions."**
 
-> **"Consistency beats talent when talent doesn't stay consistent."**
-
-⭐ Thanks for visiting my profile!
-
-</p>
+⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
