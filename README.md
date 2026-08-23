@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Gupta</h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL • Python • Power BI • Java | Turning Data into Business Insights 📊</h3>
+<h3 align="center"> Data Analyst | SQL • Python • Power BI • Java | Turning Data into Business Insights 📊</h3>
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=priyanshu-0170&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
