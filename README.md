@@ -14,7 +14,7 @@
 
 🎓 B.Tech in Computer Science & Business Systems
 
-📊 Aspiring Data Analyst passionate about transforming raw data into meaningful business insights.
+📊 Data Analyst passionate about transforming raw data into meaningful business insights.
 
 💡 Interested in Data Analytics, Business Intelligence, AI Applications, and Backend Development.
 
